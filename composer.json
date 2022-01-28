@@ -11,7 +11,7 @@
     },
     "require": {
         "php": "^7.4 | ^8.0",
-        "phpunit/phpunit": "^8.4 | ^9.0"
+        "phpunit/phpunit": "^8.4 | ^9.0 | dev-master as 9.5.99"
     },
     "require-dev": {
         "consolidation/robo": "^3.0"
